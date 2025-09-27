@@ -15,13 +15,13 @@ export default function Footer() {
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      url: 'https://linkedin.com/in/moaaz-ahmad',
+      url: 'https://www.linkedin.com/in/moaaz-hagag-06969b31a/',
       color: 'hover:text-blue-600 dark:hover:text-blue-400'
     },
     {
       name: 'Email',
       icon: Mail,
-      url: 'mailto:moaaz.ahmad@example.com',
+      url: 'mailto:moaazhagag2001@gmail.com',
       color: 'hover:text-red-600 dark:hover:text-red-400'
     }
   ]
@@ -105,7 +105,7 @@ export default function Footer() {
             
             <div className="mt-6">
               <a
-                href="mailto:moaaz.ahmad@example.com"
+                href="mailto:moaazhagag2001@gmail.com"
                 className="inline-flex items-center space-x-2 px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg font-medium transition-colors duration-200"
               >
                 <Mail className="h-4 w-4" />

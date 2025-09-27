@@ -41,14 +41,14 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      title: 'AI-Powered Task Manager',
-      description: 'A modern Android app built with Kotlin and Jetpack Compose, featuring AI-powered task prioritization using OpenAI API integration and local TensorFlow Lite models for offline functionality.',
+      title: 'Weather App',
+      description: 'A modern Android Native app built with Kotlin and Jetpack Compose, featuring real-time weather data, location-based forecasts, and beautiful UI with Material Design 3.',
       image: '/api/placeholder/600/400',
-      technologies: ['Kotlin', 'Jetpack Compose', 'OpenAI API', 'TensorFlow Lite', 'Room Database'],
+      technologies: ['Kotlin', 'Jetpack Compose', 'Weather API', 'Location Services', 'Material Design 3'],
       category: 'Native Android',
       icon: Phone,
-      githubUrl: 'https://github.com/Moaaz-Ahmad/ai-task-manager',
-      demoUrl: 'https://github.com/Moaaz-Ahmad/ai-task-manager#demo',
+      githubUrl: 'https://github.com/Moaaz-Ahmad/WeatherApp',
+      demoUrl: 'https://github.com/Moaaz-Ahmad/WeatherApp#demo',
       featured: true
     },
     {
@@ -59,20 +59,20 @@ export default function Projects() {
       technologies: ['Flutter', 'Dart', 'Firebase', 'Provider', 'Material Design 3'],
       category: 'Cross-Platform',
       icon: Globe,
-      githubUrl: 'https://github.com/Moaaz-Ahmad/flutter-ecommerce',
-      demoUrl: 'https://github.com/Moaaz-Ahmad/flutter-ecommerce#screenshots',
+      githubUrl: 'https://github.com/Moaaz-Ahmad/FakeStore-Android',
+      demoUrl: 'https://github.com/Moaaz-Ahmad/FakeStore-Android#screenshots',
       featured: true
     },
     {
       id: 3,
-      title: 'Smart Health Monitor',
-      description: 'React Native app with AI-powered health insights using Gemini API for personalized recommendations and local machine learning models for real-time health tracking.',
+      title: 'ML Image Classifier',
+      description: 'Flutter app with AI-powered image classification using TensorFlow Lite models for real-time object detection and image recognition with high accuracy.',
       image: '/api/placeholder/600/400',
-      technologies: ['React Native', 'TypeScript', 'Gemini API', 'TensorFlow Lite', 'Health APIs'],
+      technologies: ['Flutter', 'Dart', 'TensorFlow Lite', 'Camera API', 'ML Models'],
       category: 'Cross-Platform',
       icon: Brain,
-      githubUrl: 'https://github.com/Moaaz-Ahmad/smart-health-monitor',
-      demoUrl: 'https://github.com/Moaaz-Ahmad/smart-health-monitor#features',
+      githubUrl: 'https://github.com/Moaaz-Ahmad/ImageClassifier',
+      demoUrl: 'https://github.com/Moaaz-Ahmad/ImageClassifier#features',
       featured: true
     },
     {

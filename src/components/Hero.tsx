@@ -94,7 +94,7 @@ export default function Hero() {
               <Github className="h-6 w-6 text-gray-600 dark:text-gray-400 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors duration-200" />
             </a>
             <a
-              href="https://linkedin.com/in/moaaz-ahmad"
+              href="https://www.linkedin.com/in/moaaz-hagag-06969b31a/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-gray-100 dark:bg-dark-800 hover:bg-primary-100 dark:hover:bg-primary-900/20 transition-colors duration-200 group"
@@ -103,7 +103,7 @@ export default function Hero() {
               <Linkedin className="h-6 w-6 text-gray-600 dark:text-gray-400 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors duration-200" />
             </a>
             <a
-              href="mailto:moaaz.ahmad@example.com"
+              href="mailto:moaazhagag2001@gmail.com"
               className="p-3 rounded-full bg-gray-100 dark:bg-dark-800 hover:bg-primary-100 dark:hover:bg-primary-900/20 transition-colors duration-200 group"
               aria-label="Email"
             >
