@@ -87,7 +87,7 @@ export default function Footer() {
 
           {/* Connect */}
           <div>
-            <h4 className="text-lg font-semibold mb-6">Let's Connect</h4>
+            <h4 className="text-lg font-semibold mb-6">Let&apos;s Connect</h4>
             <div className="flex space-x-4">
               {socialLinks.map((social) => (
                 <a

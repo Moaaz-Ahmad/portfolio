@@ -8,7 +8,7 @@ import {
   Globe, 
   Brain, 
   Zap,
-  Android,
+  Phone,
   Code,
   Database
 } from 'lucide-react'
@@ -46,7 +46,7 @@ export default function Projects() {
       image: '/api/placeholder/600/400',
       technologies: ['Kotlin', 'Jetpack Compose', 'OpenAI API', 'TensorFlow Lite', 'Room Database'],
       category: 'Native Android',
-      icon: Android,
+      icon: Phone,
       githubUrl: 'https://github.com/Moaaz-Ahmad/ai-task-manager',
       demoUrl: 'https://github.com/Moaaz-Ahmad/ai-task-manager#demo',
       featured: true

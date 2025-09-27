@@ -8,7 +8,7 @@ import {
   Database, 
   GitBranch, 
   Zap,
-  Android,
+  Phone,
   Globe,
   Cpu,
   Layers
@@ -54,7 +54,7 @@ export default function Skills() {
     },
     {
       title: 'Native Frameworks',
-      icon: Android,
+      icon: Phone,
       color: 'from-green-500 to-green-600',
       skills: [
         { name: 'Jetpack Compose', level: 95 },
@@ -181,7 +181,7 @@ export default function Skills() {
               <p className="text-gray-600 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed">
                 I stay at the forefront of technology by continuously exploring new frameworks, 
                 AI capabilities, and development methodologies. My passion for learning drives me to 
-                implement cutting-edge solutions that push the boundaries of what's possible in mobile development.
+                implement cutting-edge solutions that push the boundaries of what&apos;s possible in mobile development.
               </p>
             </div>
           </div>

@@ -80,7 +80,7 @@ export default function About() {
               </p>
 
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-                I'm passionate about leveraging <span className="text-primary-600 dark:text-primary-400 font-semibold">Generative AI APIs</span> 
+                I&apos;m passionate about leveraging <span className="text-primary-600 dark:text-primary-400 font-semibold">Generative AI APIs</span> 
                 and local AI models to build applications that not only look great but also provide intelligent, 
                 context-aware experiences for users.
               </p>
