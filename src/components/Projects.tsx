@@ -75,42 +75,6 @@ export default function Projects() {
       demoUrl: 'https://github.com/Moaaz-Ahmad/ImageClassifier#features',
       featured: true
     },
-    {
-      id: 4,
-      title: 'Modern Banking App',
-      description: 'Jetpack Compose Android application with advanced security features, biometric authentication, and AI-powered fraud detection using local ML models.',
-      image: '/api/placeholder/600/400',
-      technologies: ['Kotlin', 'Jetpack Compose', 'Biometric Auth', 'ML Kit', 'Encryption'],
-      category: 'Native Android',
-      icon: Smartphone,
-      githubUrl: 'https://github.com/Moaaz-Ahmad/modern-banking-app',
-      demoUrl: 'https://github.com/Moaaz-Ahmad/modern-banking-app#security-features',
-      featured: false
-    },
-    {
-      id: 5,
-      title: 'AI Chat Assistant',
-      description: 'Flutter app with OpenAI and Gemini API integration, featuring voice recognition, text-to-speech, and intelligent conversation management with offline capabilities.',
-      image: '/api/placeholder/600/400',
-      technologies: ['Flutter', 'OpenAI API', 'Gemini API', 'Speech Recognition', 'TTS'],
-      category: 'AI Integration',
-      icon: Zap,
-      githubUrl: 'https://github.com/Moaaz-Ahmad/ai-chat-assistant',
-      demoUrl: 'https://github.com/Moaaz-Ahmad/ai-chat-assistant#demo-video',
-      featured: false
-    },
-    {
-      id: 6,
-      title: 'Developer Tools Suite',
-      description: 'Comprehensive React Native toolkit for developers, featuring code analysis, API testing, and AI-powered code suggestions with real-time collaboration features.',
-      image: '/api/placeholder/600/400',
-      technologies: ['React Native', 'TypeScript', 'Code Analysis', 'API Testing', 'WebSocket'],
-      category: 'Developer Tools',
-      icon: Code,
-      githubUrl: 'https://github.com/Moaaz-Ahmad/developer-tools-suite',
-      demoUrl: 'https://github.com/Moaaz-Ahmad/developer-tools-suite#features',
-      featured: false
-    }
   ]
 
   const getCategoryColor = (category: string) => {
