@@ -147,7 +147,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 - **Email**: moaazhagag2001@gmail.com
 - **GitHub**: [@Moaaz-Ahmad](https://github.com/Moaaz-Ahmad)
-- **LinkedIn**: [Moaaz Ahmad]([https://linkedin.com/in/moaaz-ahmad](https://www.linkedin.com/in/moaaz-hagag-06969b31a/))
+- **LinkedIn**: [Moaaz Ahmad](https://www.linkedin.com/in/moaaz-hagag-06969b31a/)
 
 ---
 
